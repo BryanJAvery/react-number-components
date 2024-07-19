@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "git.blame.editorDecoration.enabled": false,
+  "gitlens.currentLine.enabled": false
+}
